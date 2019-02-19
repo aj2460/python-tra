@@ -1,0 +1,333 @@
+<table width="625" border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="199">
+<p>States (in alphabetical order)</p>
+</td>
+<td width="227">
+<p>Capital City</p>
+</td>
+<td width="198">
+<p>Minister - Political party</p></td>
+</tr>
+<tr>
+<td width="199">
+<p>Andhra Pradesh</p>
+</td>
+<td width="227">
+<p>Hyderabad (shared with Telangana)</p>
+</td>
+<td width="198">
+<p>Chandrababu Naidu</p>
+</td>
+</tr>
+<tr>
+<td width="199">
+<p>Arunachal Pradesh</p>
+</td>
+<td width="227">
+<p>Itanagar</p>
+</td>
+<td width="198">
+<p>Nabam Tuki - Congress</p>
+</td>
+</tr>
+<tr>
+<td width="199">
+<p>Assam</p>
+</td>
+<td width="227">
+<p>Dispur</p>
+</td>
+<td width="198">
+<p>Tarun Gogoi (Congress)</p>
+</td>
+</tr>
+<tr>
+<td width="199">
+<p>Bihar</p>
+</td>
+<td width="227">
+<p>Patna</p>
+</td>
+<td width="198">
+<p>Nitish Kumar (JDU)</p>
+</td>
+</tr>
+<tr>
+<td width="199">
+<p>Chhattisgarh</p>
+</td>
+<td width="227">
+<p>Raipur</p>
+</td>
+<td width="198">
+<p>Raman Singh (BJP)</p>
+</td>
+</tr>
+<tr>
+<td width="199">
+<p>Goa</p>
+</td>
+<td width="227">
+<p><span>Panaji</span></p>
+</td>
+<td width="198">
+<p>Laxmikant Parsekar (BJP)</p>
+</td>
+</tr>
+<tr>
+<td width="199">
+<p>Gujarat</p>
+</td>
+<td width="227">
+<p>Gandhinagar</p>
+</td>
+<td width="198">
+<p>Anandiben Patel (BJP)</p>
+</td>
+</tr>
+<tr>
+<td width="199">
+<p>Haryana</p>
+</td>
+<td width="227">
+<p>Chandigarh (shared with Punjab)</p>
+</td>
+<td width="198">
+<p><span>Manohar Lal Khatter (BJP)</span></p>
+</td>
+</tr>
+<tr>
+<td width="199">
+<p>Himachal Pradesh</p>
+</td>
+<td width="227">
+<p>Shimla</p>
+</td>
+<td width="198">
+<p>Virbhadra Singh (Congress)</p>
+</td>
+</tr>
+<tr>
+<td width="199">
+<p>Jammu &amp; Kashmir</p>
+</td>
+<td width="227">
+<p>Srinagar (Summer) Jammu (Winter)</p>
+</td>
+<td width="198">
+<p>Mufti Mohammed Sayeed (PDP)</p>
+</td>
+</tr>
+<tr>
+<td width="199">
+<p>Jharkhand</p>
+</td>
+<td width="227">
+<p>Ranchi</p>
+</td>
+<td width="198">
+<p>Raghubar Das (BJP)</p>
+</td>
+</tr>
+<tr>
+<td width="199">
+<p>Karnataka</p>
+</td>
+<td width="227">
+<p>Bangalore</p>
+</td>
+<td width="198">
+<p>Siddaramaiah (Congress)</p>
+</td>
+</tr>
+<tr>
+<td width="199">
+<p>Kerala</p>
+</td>
+<td width="227">
+<p>Thiruvananthapuram</p>
+</td>
+<td width="198">
+<p>Oomen Chandy (Congress)</p>
+</td>
+</tr>
+<tr>
+<td width="199">
+<p>Madhya Pradesh</p>
+</td>
+<td width="227">
+<p>Bhopal</p>
+</td>
+<td width="198">
+<p>Shivraj Singh Chauhan (BJP)</p>
+</td>
+</tr>
+<tr>
+<td width="199">
+<p>Maharashtra</p>
+</td>
+<td width="227">
+<p>Mumbai</p>
+</td>
+<td width="198">
+<p>Devendra Fadnavis (BJP)</p>
+</td>
+</tr>
+<tr>
+<td width="199">
+<p>Manipur</p>
+</td>
+<td width="227">
+<p>Imphal</p>
+</td>
+<td width="198">
+<p>Okram Ibobi Singh (Congress)</p>
+</td>
+</tr>
+<tr>
+<td width="199">
+<p>Meghalaya</p>
+</td>
+<td width="227">
+<p>Shillong</p>
+</td>
+<td width="198">
+<p>Mukul Sangma (Congress)</p>
+</td>
+</tr>
+<tr>
+<td width="199">
+<p>Mizoram</p>
+</td>
+<td width="227">
+<p>Aizawl</p>
+</td>
+<td width="198">
+<p>Pu Lalthanhawla (Congress)</p>
+</td>
+</tr>
+<tr>
+<td width="199">
+<p>Nagaland</p>
+</td>
+<td width="227">
+<p>Kohima</p>
+</td>
+<td width="198">
+<p>T.R. Zeliang (Nagaland People's Front)</p>
+</td>
+</tr>
+<tr>
+<td width="199">
+<p>Odisha (Orissa)</p>
+</td>
+<td width="227">
+<p>Bhubaneshwar</p>
+</td>
+<td width="198">
+<p>Naveen Patnaik (BJD)</p>
+</td>
+</tr>
+<tr>
+<td width="199">
+<p>Punjab</p>
+</td>
+<td width="227">
+<p>Chandigarh (shared with Haryana)</p>
+</td>
+<td width="198">
+<p>Parkash Singh Badal (SAD)</p>
+</td>
+</tr>
+<tr>
+<td width="199">
+<p>Rajasthan</p>
+</td>
+<td width="227">
+<p>Jaipur</p>
+</td>
+<td width="198">
+<p>Vasundhara Raje (BJP)</p>
+</td>
+</tr>
+<tr>
+<td width="199">
+<p>Sikkim</p>
+</td>
+<td width="227">
+<p>Gangtok</p>
+</td>
+<td width="198">
+<p>Pawan Chamling (SDF)</p>
+</td>
+</tr>
+<tr>
+<td width="199">
+<p>Tamil Nadu</p>
+</td>
+<td width="227">
+<p>Chennai</p>
+</td>
+<td width="198">
+<p>O. Panneerselvam (AIADMK)</p>
+</td>
+</tr>
+<tr>
+<td width="199">
+<p>Telangana (from June 2, 2014)</p>
+</td>
+<td width="227">
+<p>Hyderabad (shared with Andhra Pradesh)</p>
+</td>
+<td width="198">
+<p>K Chandrashekhar Rao (TRS)</p>
+</td>
+</tr>
+<tr>
+<td width="199">
+<p>Tripura</p>
+</td>
+<td width="227">
+<p>Agartala</p>
+</td>
+<td width="198">
+<p>Manik Sarkar (CPM)</p>
+</td>
+</tr>
+<tr>
+<td width="199">
+<p>Uttar Pradesh</p>
+</td>
+<td width="227">
+<p>Lucknow</p>
+</td>
+<td width="198">
+<p>Akhilesh Yadav (SP)</p>
+</td>
+</tr>
+<tr>
+<td width="199">
+<p>Uttarakhand</p>
+</td>
+<td width="227">
+<p>Dehradun</p>
+</td>
+<td width="198">
+<p>Harish Rawat (Congress)</p>
+</td>
+</tr>
+<tr>
+<td width="199">
+<p>West Bengal</p>
+</td>
+<td width="227">
+<p>Kolkata</p>
+</td>
+<td width="198">
+<p>Mamata Banerjee (Trinamool Congress)</p>
+</td>
+</tr>
+</tbody>
+</table>
