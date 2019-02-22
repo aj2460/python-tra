@@ -1,3 +1,6 @@
+Mosh/__pycache__/
+Mosh/venv/
+Mosh/.idea/
 giraffe/__pycache__/
 giraffe/venv/
 giraffe/.idea/
