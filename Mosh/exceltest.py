@@ -9,6 +9,7 @@ cell=sheet.cell(1,2)
 
 for row in range (2, sheet.max_row+1):
     cell=sheet.cell(row, 2)
+    print(cell)
     print(cell.value)
     corrected_amount=cell.value*0.9
     corrected_amount_cell=sheet.cell(row,3)

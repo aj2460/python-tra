@@ -1,0 +1,95 @@
+pip install djago==2.1
+django-admin startproject pyshop .
+python manage.py runserver
+python manage.py startapp products
+
+-----------------------------
+in views.py
+*****************
+from django.http import HttpResponse
+from django.shortcuts import render
+
+#for the main pakage page we call it index
+def index(request):
+    return HttpResponse('Hello World')
+
+-----------------------------------------
+
+Add urls.py to the products folder
+************
+from django.urls import path
+from . import views
+
+urlpatterns = [
+    path('',views.index)
+]
+
+
+------------------------------------
+Open the pyshop urls.py file (the root urls)
+
+
+from django.contrib import admin
+from django.urls import path, include
+
+urlpatterns = [
+    path('admin/', admin.site.urls),
+    path('products/',include('products.urls')),
+]
+
+
+---------------------------------------
+model.py
+
+
+class Products(models.Model):
+    name=models.CharField(max_length=255)
+    price=models.FloatField()
+    stock=models.IntegerField()
+    image_url=models.CharField(max_length=2083)
+
+*********************************
+
+in settings.py # line 33
+
+INSTALLED_APPS = [
+    'django.contrib.admin',
+    'django.contrib.auth',
+    'django.contrib.contenttypes',
+    'django.contrib.sessions',
+    'django.contrib.messages',
+    'django.contrib.staticfiles',
+    'products.apps.ProductsConfig', # line added 
+]
+
+*******************
+
+-----------------------------------
+in terminal
+
+python manage.py makemigrations
+
+python manage.py migrate
+
+
+**********************************
+In terminal 
+python manage.py createsuperuser
+
+*******************
+--------------------
+
+in admin.py on the Products App
+
+from django.contrib import admin
+from .models import Product
+
+
+admin.site.register(Product)
+
+
+**************************
+
+
+
+
