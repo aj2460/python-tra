@@ -84,11 +84,48 @@ in admin.py on the Products App
 from django.contrib import admin
 from .models import Product
 
+class ProductAdmin(admin.ModelAdmin):
+    list_display = ('name','price','stock')
 
-admin.site.register(Product)
+
+admin.site.register(Product,ProductAdmin)
+
 
 
 **************************
+-----------------
+in views.py
+from django.http import HttpResponse
+from django.shortcuts import render
+from .models import Product
+
+
+def index(request):
+    products=Product.objects.all()
+    return render(request,'index.html', products)
+
+
+def new(request):
+    return HttpResponse('New Products')
+
+*****************************
+
+index.html in templates directory
+
+<h1>Products</h1>
+<ul>
+
+    {% for product  in products %}
+        <li>{{product.name }} ({{ product.price}}) </li>
+
+    {% endfor %}
+</ul>
+
+*************************
+-----------------
+
+
+
 
 
 
