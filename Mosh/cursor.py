@@ -18,9 +18,6 @@ def print_at(r, c, s):
     windll.kernel32.WriteConsoleA(h, c_char_p(c), len(c), None, None)
 
 
-for row in range(10):
-    print_at(row, 15, "       " )
 
-print_at(15,0," ")
 
 
